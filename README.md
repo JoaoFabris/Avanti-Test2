@@ -21,3 +21,25 @@ Bio
 
 O candidato pode utilizar um framework CSS como Bootstrap, Tailwind ou outro
 5️⃣ Opcional: Melhorar a experiência do usuário com efeitos visuais e loading durante a requisição
+
+# Avanti - Teste Técnico 2
+
+Este repositório contém a segunda etapa do teste técnico obrigatório solicitado pela Avanti.
+
+## 🛠 Tecnologias Utilizadas
+
+- React.js
+- Tailwind.js
+- JavaScript
+
+## 📁 Estrutura do Projeto
+
+- `app.js` – Estrutura da página
+- `tailwind.js` – Estilização da interface
+- `components.js` – Lógica e components do projeto com JavaScript
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/JoaoFabris/Avanti-Test2
