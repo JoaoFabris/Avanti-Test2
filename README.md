@@ -36,7 +36,7 @@ Este repositório contém a segunda etapa do teste técnico obrigatório solicit
 
 - `app.js` – Estrutura da página
 - `tailwind.js` – Estilização da interface
-- `components.js` – Lógica e components do projeto com JavaScript
+- `components` – Lógica e components do projeto com JavaScript
 
 ## 🚀 Como Executar
 
